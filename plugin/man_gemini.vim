@@ -1,1 +1,1 @@
-command! -nargs=1 mang call call_api(<f-args>)
+command! -nargs=1 Mang call call_api(<f-args>)
