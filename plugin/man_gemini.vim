@@ -17,4 +17,4 @@ function! Call_api(command) abort
   endif
 endfunction
 
-command! -nargs=1 Mang call call_api(<f-args>)
+command! -nargs=1 Mang call Call_api(<f-args>)
