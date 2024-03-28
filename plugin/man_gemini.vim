@@ -1,4 +1,3 @@
-
 function! Call_api_interactively(command) abort
   if empty(a:command)
     echoerr 'error: command name is empty'
